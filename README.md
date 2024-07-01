@@ -12,7 +12,7 @@ Welcome to LogicViz, an interactive online platform designed to bring algorithms
 <li>
 
 ### Visualize algorithms from code:
-Algorithm Visualizer allows you to witness algorithms in action by visualizing code written in various programming languages. This visual approach facilitates a better understanding of algorithmic behavior..</li>
+LogicViz allows you to witness algorithms in action by visualizing code written in various programming languages. This visual approach facilitates a better understanding of algorithmic behavior..</li>
 <li>
 
 ### Learn about Algorithms:
