@@ -1,10 +1,10 @@
 # LogicViz
 
 ## Introduction
-Welcome to Algorithm Visualizer, an interactive online platform designed to bring algorithms to life through visualization. Whether you're a student, teacher, or professional, our platform provides an engaging way to explore and understand various algorithms.
+Welcome to LogicViz, an interactive online platform designed to bring algorithms to life through visualization. Whether you're a student, teacher, or professional, our platform provides an engaging way to explore and understand various algorithms.
 
 ## Languages and Frameworks Used
-[![Languages](https://skillicons.dev/icons?i=html,css,js,react,nodejs)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb)](https://skillicons.dev)
 
 
 ## Key Features
